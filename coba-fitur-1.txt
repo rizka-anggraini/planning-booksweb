@@ -1,0 +1,2 @@
+fitur resensi orang lain
+fitur diskusi
