@@ -1,0 +1,14 @@
+Informasi tata cara merawat buku yang baik
+Informasi buku rekomendasi nonfiksi berdasarkan genre 
+^Ekonomi
+^Politik dan Sosial
+^Sejarah
+^Fisika
+^Kimia
+^Biologi
+^Bahasa Inggris
+Informasi buku rekomendasi fiksi berdasarkan genre
+^Fantasi
+^Romance
+^Sci-fi
+^Dystopia
