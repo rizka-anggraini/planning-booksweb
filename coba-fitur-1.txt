@@ -1,3 +1,4 @@
 fitur resensi orang lain
-fitur diskusi
-fitur buku new comings
+^fitur bintang
+^fitur diskusi
+fitur info buku new comings
