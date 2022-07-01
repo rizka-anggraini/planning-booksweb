@@ -1,0 +1,4 @@
+Rencana Web Buku
+-Membuat fitur berisi resensi buku
+-Membuat katalog promo buku
+-Membuat fitur jual beli buku secara online
